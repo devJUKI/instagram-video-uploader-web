@@ -30,7 +30,7 @@ function HomeScreen() {
         <div className='homeScreen'>
             <div>
                 <a
-                    href='https://www.facebook.com/v15.0/dialog/oauth?client_id=483341770598169&scope=ads_management,business_management,instagram_basic,instagram_content_publish,pages_read_engagement&redirect_uri=https://localhost:5173/facebook-token/'
+                    href='https://www.facebook.com/v15.0/dialog/oauth?client_id=XXXXXXX&scope=ads_management,business_management,instagram_basic,instagram_content_publish,pages_read_engagement&redirect_uri=https://localhost:5173/facebook-token/'
                 >{btnName}</a>
             </div>
             <input ref={tiktokUrlRef} type='text' />
