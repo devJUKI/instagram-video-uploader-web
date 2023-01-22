@@ -6,8 +6,8 @@ from tiktok_watermark_remover import TikTokWatermarkRemover
 app = Flask(__name__)
 CORS(app)
 
-instagram_account_id = '17841456683250303'
-caption = "LINK IN BIO! ❤️ #hair #hairbrush #clean #selfcleaning #easy #lazy #mom #momlife #daughter #daughters #gift #giftideas #xmas #christmas #haircare #selfcleaninghairbrush #f #fypage #foryourpage #makeup"
+instagram_account_id = 'XXXXXXX'
+caption = "XXXXXXX"
 share_to_feed = "true"
 thumb_offset = 0
 
